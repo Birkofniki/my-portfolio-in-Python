@@ -22,7 +22,7 @@ SOCIAL_MEDIA= {
     "LinkedIn":"https://www.linkedin.com/in/augastine-ndeti-290230175?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwZ6ut2hySHGJYPyJsjdf2A%3D%3D",
     "Twitter":"https://twitter.com/AugastineNdeti",
     "Facebook":"https://www.facebook.com/augastine.ndeti.3",
-    "Instagram":"https://www.instagram.com/ndetiaugastino/",
+    # "Instagram":"https://www.instagram.com/ndetiaugastino/",
     "Github":"https://github.com/Birkofniki",
     "Discord":"https://discordapp.com/users/961452033288843284",
     "Tiktok":"https://www.tiktok.com/@mr.bytes10?is_from_webapp=1&sender_device=pc",
@@ -32,7 +32,7 @@ SOCIAL_MEDIA= {
 PROJECTS= {
     "my portfolio":"https://augastine-s-portfolio.vercel.app/",
     "E-commerce website":"https://www.bigcommerce.com/articles/ecommerce/best-ecommerce-website-design/",
-    "Resume in python":"https://www.google.com/search?q=resume+in+python+code&oq=resume+in+py&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIICAMQABgWGB4yCAgEEAAYFhgeMggIBRAAGBYYHjIICAYQABgWGB4yCAgHEAAYFhgeMgoICBAAGA8YFhgeMggICRAAGBYYHtIBCTEzNDQzajBqNKgCALACAA&sourceid=chrome&ie=UTF-8",
+    "Resume in python":"https://augastineresumeinpython.streamlit.app/",
     "":"",
 }
 
