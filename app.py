@@ -14,7 +14,7 @@ PAGE_TITLE= "Digital CV|Augastine Ndeti"
 PAGE_ICON= ":wave:"
 NAME= "Augastine Ndeti"
 DESCRIPTION= """
-A Juniour Data analyst and Software Development Expert, assisting organizations by supporting data-driven decision-making processes. 
+A Data analyst and Software Development Expert, assisting organizations by supporting data-driven decision-making processes. 
 Skilled in automations, business analysis, business development, troubleshooting technical issues, explaining complex concepts in plain language, and creating a positive user experience. 
 Adept at writing clear documentation, reports, and user guides. A competent individual with a passion for providing excellent customer support. Motivated to continuously learn and grow in the Tech ecosystem.
 """
