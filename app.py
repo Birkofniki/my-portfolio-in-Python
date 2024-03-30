@@ -14,7 +14,9 @@ PAGE_TITLE= "Digital CV|Augastine Ndeti"
 PAGE_ICON= ":wave:"
 NAME= "Augastine Ndeti"
 DESCRIPTION= """
-Seniour Data analyst and Python Programming Expert, assisting organizations by supporting data-driven decision-making processes.
+A Juniour Data analyst and Software Development Expert, assisting organizations by supporting data-driven decision-making processes. 
+Skilled in automations, business analysis, business development, troubleshooting technical issues, explaining complex concepts in plain language, and creating a positive user experience. 
+Adept at writing clear documentation, reports, and user guides. A competent individual with a passion for providing excellent customer support. Motivated to continuously learn and grow in the Tech ecosystem.
 """
 EMAIL= "augastinendeti@gmail.com"
 SOCIAL_MEDIA= {
@@ -96,7 +98,7 @@ st.subheader("SKILLS & AREAS OF EXPERTISE")
 st.write(
         """
 - Technical Skills:
-    - ▶Proficient in HTML, CSS, and JavaScript
+    - ▶Proficient in HTML, CSS, JavaScript, React.js, Next.js and Python.
     - ▶Familiar with jQuery and WordPress
     - ▶Experience with Python Programming (scikit-learn, Pandas), SQL, VBA.
     - ▶Knowledge of tools like GitHub, CMD, Slack, and HelpNinja
