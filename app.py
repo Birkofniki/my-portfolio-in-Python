@@ -18,7 +18,7 @@ A Data analyst and Software Development Expert, assisting organizations by suppo
 Skilled in automations, business analysis, business development, troubleshooting technical issues, explaining complex concepts in plain language, and creating a positive user experience. 
 Adept at writing clear documentation, reports, and user guides. A competent individual with a passion for providing excellent customer support. Motivated to continuously learn and grow in the Tech ecosystem.
 """
-EMAIL= "augastinendeti@gmail.com"
+EMAIL= "mulu.bytes@gmail.com"
 SOCIAL_MEDIA= {
     "YouTube":"https://www.youtube.com/channel/UCy9pdLZpUDSzcXrBT6rd0mg",
     "LinkedIn":"https://www.linkedin.com/in/augastine-ndeti-290230175?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwZ6ut2hySHGJYPyJsjdf2A%3D%3D",
